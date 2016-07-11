@@ -1,0 +1,14 @@
+nav li {
+	font-size: 50px;
+	background-color: grey;
+	-webkit-filter: brightness(100%);
+}
+
+nav li:hover {
+	-webkit-filter: brightness(80%);
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	transition: all .5s ease;
+}
