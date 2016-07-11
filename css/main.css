@@ -8,7 +8,7 @@ a {
 nav {
 	position: fixed;
 	width: 100%;
-	border-bottom: outset;
+	border-bottom: solid red;
 	height: 75px;
 	background-color: #ffcccc;
 }
@@ -30,7 +30,8 @@ nav ul li:hover {
 	transition: all 1s ease;
 }
 h1{
-	border: 3pt outset #eeeeee;
+	display: block;
+	border: 3pt solid #eeeeee;
 	font-size: 20px;
 	text-align: center;
 	width: 95%;
