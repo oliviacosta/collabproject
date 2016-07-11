@@ -29,3 +29,13 @@ nav ul li:hover {
 	-ms-transition: all .5s ease;
 	transition: all .5s ease;
 }
+p{
+
+	border: 3pt solid#eeeeee;
+	width: 75%;
+	height: auto;
+	margin: auto;
+	padding: 1%;
+	margin-top: 100px;
+
+}
