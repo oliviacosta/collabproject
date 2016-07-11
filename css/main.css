@@ -1,10 +1,10 @@
-nav li {
+nav ul li {
 	font-size: 50px;
 	background-color: grey;
 	-webkit-filter: brightness(100%);
 }
 
-nav li:hover {
+nav ul li:hover {
 	-webkit-filter: brightness(80%);
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
