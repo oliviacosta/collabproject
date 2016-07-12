@@ -53,9 +53,6 @@ footer {
 	bottom: 0;
 	padding: 5px 0px 5px 20px;
 }
-div.content a {
-	color: black;
-}
 div.content a:hover {
 	color: grey;
 	transition: all .25s ease;
