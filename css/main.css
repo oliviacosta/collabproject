@@ -54,6 +54,9 @@ footer {
 	padding: 5px 0px 5px 20px;
 }
 div.content a {
-	text-decoration: underline;
-	color: blue;
+	color: black;
+}
+div.content a:hover {
+	color: grey;
+	transition: all .25s ease;
 }
